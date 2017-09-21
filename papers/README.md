@@ -1,2 +1,2 @@
-# resources
-edu use only
+# for shorter reads and excerpts
+
